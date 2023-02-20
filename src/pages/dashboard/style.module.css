@@ -28,10 +28,10 @@
   min-height: calc(100vh - 130px);
 }
 .company {
-    display: flex;
-    align-items: center;
-    column-gap: 10px;
-    margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  margin-bottom: 40px;
 }
 .company div {
   height: 60px;
@@ -50,46 +50,46 @@
 .company div h1 {
   font-size: 24px;
   text-transform: uppercase;
-  color: #1A1A1A;
+  color: #1a1a1a;
 }
 .user {
-    margin: 5px 0;
+  margin: 5px 0;
 }
 .user h3 {
-    color: #858585;
-    font-size: 12px;
-    text-transform: uppercase;
-    font-weight: 400;
+  color: #858585;
+  font-size: 12px;
+  text-transform: uppercase;
+  font-weight: 400;
 }
 .user p {
-    color: #1A1A1A;
-    font-size: 12px;
-    text-transform: uppercase;
+  color: #1a1a1a;
+  font-size: 12px;
+  text-transform: uppercase;
 }
 .right {
-    background: #F7F7F7;
-    border-radius: 12px;
-    padding: 40px 20px;
+  background: #f7f7f7;
+  border-radius: 12px;
+  padding: 40px 20px;
 }
 .soon {
-    background: #FEEBEE;
-    border-radius: 99px;
-    padding: 5px 10px;
-    font-size: 14px;
-    color: #E60A2B;
-    display: inline-flex;
-    margin-bottom: 10px;
-    align-items: center;
-    column-gap: 5px;
+  background: #feebee;
+  border-radius: 99px;
+  padding: 5px 10px;
+  font-size: 14px;
+  color: #e60a2b;
+  display: inline-flex;
+  margin-bottom: 10px;
+  align-items: center;
+  column-gap: 5px;
 }
 .head {
-    text-align: center;
-    color: #1A1A1A;
-    line-height: 37px;
+  text-align: center;
+  color: #1a1a1a;
+  line-height: 37px;
 }
 .body {
-    text-align: center;
-    color: #595959;
-    line-height: 25px;
-    letter-spacing: 0.3px;
+  text-align: center;
+  color: #595959;
+  line-height: 25px;
+  letter-spacing: 0.3px;
 }
